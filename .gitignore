@@ -1,0 +1,4 @@
+.buddy_state.json
+.buddy_state.json.tmp
+__pycache__/
+firmware/buddy/config.h
